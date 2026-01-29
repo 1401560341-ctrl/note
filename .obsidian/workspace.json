@@ -11,13 +11,14 @@
             "id": "28fe53c1dc8a477e",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -193,10 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "943364ccbdd9bf04",
+  "active": "28fe53c1dc8a477e",
   "lastOpenFiles": [
+    "未命名.base",
     "tools",
-    "README.md",
-    "未命名.base"
+    "README.md"
   ]
 }
